@@ -9,7 +9,7 @@ nav_order: 2
 {: .note }
 Personnel must have completed HIPPA/CITI training and be approved by the IRB to attend visits and have access to PHI.
 
-In order to access the speech data, you will need to have access to the `ETC_private` folder on Box. This folder contains the speech data and other files necessary for processing the data. This folder contains PHI and must be handled according to [HIPPA guidelines](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html).
+In order to access the speech data, you will need to have access to the `ETC_private` folder on Box. This folder contains the speech data and other files necessary for processing the data. This folder contains PHI and must be handled according to [HIPAA guidelines](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html).
 
 If at any point, you do not have access to a folder or drive, please contact Rebecca Butler (**butle821@umn.edu**) for access. You may still need to finish training to be added to the protocol and granted access. If your protocol status is unknown, you can contact Peter Grund (**grund130@umn.edu**) to determine your status.
 
@@ -31,22 +31,22 @@ Box Drive is a cloud storage service that allows you to access Box files on your
 
 After installing Box Drive, you should see a new drive on your computer. You can access the drive by opening Finder and clicking on the Box icon in the systems tray under 'Locations'. If you don't see the 'Locations' header, you can open Box Drive from your Applications folder.
 
-![im](/img/mac-mount-box.png)
+![im](../img/mac-mount-box.png)
 
 Once you've opened Box Drive, you can navigate to the folder where the speech data is stored. The folder is called `Assessment_Speech` and is located in the `ETC_private` folder. Your Box Drive will look different depending on how many folders you have access to. 
 
-![im](/img/mac-box-home.png)
+![im](../img/mac-box-home.png)
 
 ### Praat
 Praat is a software package for the analysis of speech in phonetics. The software should install on your computer and be available to open from the Applications folder. The logo looks like a pair of lips and an ear.
 
 <div style="display: flex; justify-content: left;">
   <figure>
-    <img src="/img/praat-mac.png" alt="im" style="width: 75%;">
+    <img src="../img/praat-mac.png" alt="im" style="width: 75%;">
     <figcaption>Mac logo</figcaption>
   </figure>
   <figure>
-    <img src="/img/praat-wind.png" alt="im" style="width: 64%;">
+    <img src="../img/praat-wind.png" alt="im" style="width: 64%;">
     <figcaption>Windows logo</figcaption>
   </figure>
 </div>
