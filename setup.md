@@ -35,18 +35,18 @@ After installing Box Drive, you should see a new drive on your computer. You can
 
 Once you've opened Box Drive, you can navigate to the folder where the speech data is stored. The folder is called `Assessment_Speech` and is located in the `ETC_private` folder. Your Box Drive will look different depending on how many folders you have access to. 
 
-![im](../img/mac-box-home.png)
+<img src="{{ site.baseurl }}/img/mac-box-home.png" alt="im" />
 
 ### Praat
 Praat is a software package for the analysis of speech in phonetics. The software should install on your computer and be available to open from the Applications folder. The logo looks like a pair of lips and an ear.
 
 <div style="display: flex; justify-content: left;">
   <figure>
-    <img src="../img/praat-mac.png" alt="im" style="width: 75%;">
+    <img src="{{ site.baseurl }}/img/praat-mac.png" style="width: 75%;">
     <figcaption>Mac logo</figcaption>
   </figure>
   <figure>
-    <img src="../img/praat-wind.png" alt="im" style="width: 64%;">
+    <img src="{{ site.baseurl }}/img/praat-wind.png" style="width: 64%;">
     <figcaption>Windows logo</figcaption>
   </figure>
 </div>
