@@ -1,4 +1,4 @@
-title: Just the Docs Template
+title: DBS speech SOP
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -6,3 +6,12 @@ url: https://petermgrund.github.io/ddktor-sop
 
 aux_links:
   Template Repository: https://github.com/petermgrund/ddktor-sop
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+
