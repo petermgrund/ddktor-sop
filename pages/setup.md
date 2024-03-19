@@ -2,6 +2,7 @@
 layout: default
 title: Set-up
 nav_order: 2
+permalink: setup
 ---
 # Set-up
 ## Access
@@ -18,12 +19,12 @@ If at any point, you do not have access to a folder or drive, please contact Reb
 
 Download and install the following software on a HIPPA compliant device. If you are on a University of Minnesota computer, you may need to contact IT to install the software for you if it is not already installed. Check the Self-Service app to see if the software is available for download.
 
-| Software        | Download link          | Docs |
+| Software        | Download link          | Notes |
 |:-------------|:------------------|:------|
 | Box Drive  | [Box.com](https://www.box.com/resources/downloads) |   |
 | Praat | [fon.hum.uva.nl](https://www.fon.hum.uva.nl/praat/)   | |
 | R           | [cran.rstudio.com](https://cran.rstudio.com/)      |    |
-| RStudio           | [posit.co](https://posit.co/download/rstudio-desktop/) |   |
+| RStudio           | [posit.co](https://posit.co/download/rstudio-desktop/) | Optional  |
 | Python           | [python.org](https://www.python.org/downloads/) |   |
 
 ### Box Drive
@@ -51,11 +52,18 @@ Praat is a software package for the analysis of speech in phonetics. The softwar
   </figure>
 </div>
 
-### R
-R is a programming language and free software environment.
-
-### RStudio
-RStudio is an integrated development environment (IDE) for R.
-
 ### Python
-Python is a programming language.
+Python is a programming language that will be used to run the pipeline. You will need to install Python 3.7 or later. After installing Python, you should be able to open the terminal or command prompt and type `python` to open the Python interpreter. You should see something like the following:
+
+```bash
+Python 3.11.5 (main, Sep  1 2023, 16:14:00) [Clang 14.0.3 (clang-1403.0.22.14.1)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Type `exit()` and press Enter to close the Python interpreter.
+
+### R and RStudio
+R is a programming language and free software environment. RStudio is an integrated development environment (IDE) for R. R will be used to clean and merge the data after the processing pipeline is complete. RStudio is not necessary, but it is recommended for ease of use.
+
+
