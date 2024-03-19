@@ -1,11 +1,11 @@
 title: DBS speech SOP
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Standard Operating Procedure (SOP) for processing DBS in ET speech data.
 theme: just-the-docs
 
 url: https://petermgrund.github.io/ddktor-sop
 
 aux_links:
-  Template Repository: https://github.com/petermgrund/ddktor-sop
+  SOP repository: https://github.com/petermgrund/ddktor-sop
 
 callouts:
   warning:
