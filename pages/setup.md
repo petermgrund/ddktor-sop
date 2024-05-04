@@ -4,17 +4,7 @@ title: Set-up
 nav_order: 2
 permalink: setup
 ---
-# Set-up
-## Access
-
-{: .note }
-Personnel must have completed HIPPA/CITI training and be approved by the IRB to attend visits and have access to PHI.
-
-In order to access the speech data, you will need to have access to the `ETC_private` folder on Box. This folder contains the speech data and other files necessary for processing the data. This folder contains PHI and must be handled according to [HIPAA guidelines](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html).
-
-If at any point, you do not have access to a folder or drive, please contact Rebecca Butler (**butle821@umn.edu**) for access. You may still need to finish training to be added to the protocol and granted access. If your protocol status is unknown, you can contact Peter Grund (**grund130@umn.edu**) to determine your status.
-
-
+# Set-up (general)
 ## Software
 
 Download and install the following software on a HIPPA compliant device. If you are on a University of Minnesota computer, you may need to contact IT to install the software for you if it is not already installed. Check the Self-Service app to see if the software is available for download.
@@ -67,3 +57,28 @@ Type `exit()` and press Enter to close the Python interpreter.
 R is a programming language and free software environment. RStudio is an integrated development environment (IDE) for R. R will be used to clean and merge the data after the processing pipeline is complete. RStudio is not necessary, but it is recommended for ease of use.
 
 
+# Set-up (DBS in ET study)
+## Access
+
+{: .note }
+Personnel must have completed HIPAA/CITI training and be approved by the IRB as a member of *this* study to access the data.
+
+In order to access the speech data, you will need to have access to the `ETC_private` folder on Box. This folder contains the speech data and other files necessary for processing the data. This folder contains PHI and must be handled according to [HIPAA guidelines](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html).
+
+If at any point, you do not have access to a folder or drive, please contact Rebecca Butler (**butle821@umn.edu**) for access. You may still need to finish training to be added to the protocol and granted access. If your protocol status is unknown, you can contact Peter Grund (**grund130@umn.edu**) to determine your status.
+
+## Box Drive
+Once you've installed and opened Box Drive, you can navigate to the folder where the speech data is stored. The folder is called `Assessment_Speech` and is located in the `ETC_private` folder. Your Box Drive will look different depending on how many folders you have access to. 
+
+<img src="{{ site.baseurl }}/img/mac-box-home.png" alt="im" />
+
+
+# Set-up (CR-DBS study)
+## Access
+
+{: .note }
+Personnel must have completed HIPAA/CITI training and be approved by the IRB as a member of *this* study to access the data.
+
+In order to access the speech data, you will need to have access to the `CR DBS for ET - UH3` folder on Box. This folder contains the speech data and other files necessary for processing the data. This folder contains PHI and must be handled according to [HIPAA guidelines](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html).
+
+If at any point, you do not have access to a folder or drive, please contact Peter Grund (**grund130@umn.edu**) for access. You may still need to finish training to be added to the protocol and granted access. 
