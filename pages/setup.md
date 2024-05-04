@@ -22,11 +22,7 @@ Box Drive is a cloud storage service that allows you to access Box files on your
 
 After installing Box Drive, you should see a new drive on your computer. You can access the drive by opening Finder and clicking on the Box icon in the systems tray under 'Locations'. If you don't see the 'Locations' header, you can open Box Drive from your Applications folder.
 
-<img src="{{ site.baseurl }}/img/mac-mount-box.png" alt="im" />
-
-Once you've opened Box Drive, you can navigate to the folder where the speech data is stored. The folder is called `Assessment_Speech` and is located in the `ETC_private` folder. Your Box Drive will look different depending on how many folders you have access to. 
-
-<img src="{{ site.baseurl }}/img/mac-box-home.png" alt="im" />
+<img src="{{ site.baseurl }}/img/mac-mount-box.png" alt="im" style="height: 75%;"/>
 
 ### Praat
 Praat is a software package for the analysis of speech in phonetics. The software should install on your computer and be available to open from the Applications folder. The logo looks like a pair of lips and an ear.
